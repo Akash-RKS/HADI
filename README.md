@@ -14,3 +14,8 @@ pip install bs4
 
 pkg install git
 
+git clone https://github.com/Akash-RKS/HADI.git
+
+cd HADI
+
+python hadi.py
